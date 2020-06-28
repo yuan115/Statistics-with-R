@@ -473,7 +473,8 @@ nycflights <- nycflights %>%
 
 nycflights %>% 
   select(avg_speed, tailnum) %>% 
-  arrange(desc(avg_speed))
+  arrange(desc(avg_speed)) %>% 
+  head()
 ```
 
 
