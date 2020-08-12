@@ -1,2 +1,4 @@
 # Statistics-with-R
-Statistics with R Specialization on Coursera by Duke University
+#### Statistics with R Specialization on Coursera by Duke University
+
+Containing the assignments
